@@ -1,0 +1,7 @@
+{
+  "packs": [
+    "mohandar.json",
+    "GigantusChad.json"
+  ],
+  "homeserver_url": "https://synapse.ba5ed.com"
+}
